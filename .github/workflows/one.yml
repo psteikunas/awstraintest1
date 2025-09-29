@@ -3,7 +3,7 @@ name: demo-CI/CD on github-actions
 on:
     push:
         branches:
-            - main
+            - dev
 
 jobs:
     job-one:
